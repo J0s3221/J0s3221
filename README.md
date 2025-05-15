@@ -1,6 +1,7 @@
 ## Hi there I'm José 👋
 
 I'm a student of telecomunications and computer engineering at Instituto Superior Tecnico in Lisbon. 🔭
+
 My main interest are cybersecurity and telecomunications, but I'm currently learning more about developing full stack aplications with a springboot framework in Java and loving it 😄.
 
 📫 How to reach me: jose.novais.oliveira@tecnico.ulisboa.pt
